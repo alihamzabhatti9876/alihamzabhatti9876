@@ -91,7 +91,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alihamzabhatti9876&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihamzabhatti9876&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alihamzabhatti9876&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alihamzabhatti9876&color=red" alt="Visitor Count" />
 </p>
 
 ---
