@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 - I'm Ali hamza
 
 <!--
 **alihamzabhatti9876/alihamzabhatti9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
