@@ -91,7 +91,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alihamzabhatti9876&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihamzabhatti9876&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alihamzabhatti9876&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
